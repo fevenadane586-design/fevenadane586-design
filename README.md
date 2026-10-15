@@ -8,7 +8,6 @@ I'm a cybersecurity student at IBT College of Canada. I'm building hands-on proj
 - 🖥️ [Windows Active Directory Security Lab](https://github.com/fevenadane586-design/windows-active-directory-security-lab): a hands-on lab covering Active Directory, DHCP, WDS, domain administration, access control, and least-privilege security
 
 ## Currently learning
-- Introduction to cybersecurity
 - Computer networks (protocols, addressing, and how traffic flows)
 - Windows administration and Active Directory
 - Security monitoring and log analysis
