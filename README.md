@@ -6,6 +6,8 @@ I'm a cybersecurity student at IBT College of Canada. I'm building hands-on proj
 - 🔐 [Password Strength Checker](https://github.com/fevenadane586-design/password-strength-checker): a browser tool that scores passwords and estimates crack time ([live demo](https://fevenadane586-design.github.io/password-strength-checker/))
 - 📊 [Security Log Analyzer](https://github.com/fevenadane586-design/security-log-analyzer): a Python tool that detects suspicious login activity and possible brute-force attempts
 - 🖥️ [Windows Active Directory Security Lab](https://github.com/fevenadane586-design/windows-active-directory-security-lab): a hands-on lab covering Active Directory, DHCP, WDS, domain administration, access control, and least-privilege security
+  - 🎣 [Phishing Awareness Quiz](https://github.com/fevenadane586-design/phishing-awareness-quiz): an interactive quiz that teaches how to spot phishing emails, SMS messages and URLs ([live demo](https://fevenadane586-design.github.io/phishing-awareness-quiz/))
+- 🔒 [Crypto Toolkit](https://github.com/fevenadane586-design/crypto-toolkit): AES-256 encryption, hashing, file integrity checks and a k-anonymity breach check ([live demo](https://fevenadane586-design.github.io/crypto-toolkit/))
 
 ## Currently learning
 - Computer networks (protocols, addressing, and how traffic flows)
